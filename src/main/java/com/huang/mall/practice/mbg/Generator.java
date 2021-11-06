@@ -1,4 +1,4 @@
-package com.huang.mallpractice.mbg;
+package com.huang.mall.practice.mbg;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;

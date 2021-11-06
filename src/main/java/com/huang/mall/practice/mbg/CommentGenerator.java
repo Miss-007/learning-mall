@@ -1,4 +1,4 @@
-package com.huang.mallpractice.mbg;
+package com.huang.mall.practice.mbg;
 
 import org.mybatis.generator.api.IntrospectedColumn;
 import org.mybatis.generator.api.IntrospectedTable;
